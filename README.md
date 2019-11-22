@@ -1,6 +1,7 @@
 # Ussd-Django
 
 Create an Africastalking account
+
 Navigate to Africastalking site and create an account. Login to your newly created account.
 
 Create an app and you should see something like the image below.
