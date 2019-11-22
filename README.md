@@ -15,13 +15,14 @@ Click on Create channel This will take you to a page where you will create your 
 
 
 Install and Use Ngrok
-Download ngrok zip file, unzip the file and move it to /usr/local/bin PATH.
 
+Download ngrok zip file, unzip the file and move it to /usr/local/bin PATH.
 
 Run ngrok in the terminal using the following command.
 
 
 ngrok http 8000
+
 The default port for Django is 8000, which is what we have used.
 
 Running ngrok takes you to a page where you can copy the generated public url. This url changes every time we run run ngrok.
