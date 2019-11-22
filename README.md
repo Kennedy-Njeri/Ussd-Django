@@ -26,9 +26,11 @@ The default port for Django is 8000, which is what we have used.
 Running ngrok takes you to a page where you can copy the generated public url. This url changes every time we run run ngrok.
 
 Starting and Setting up the USSD App
+
 Go to our Django project and locate the settings.py file. Paste the url inside the square brackets
 
 ALLOWED_HOSTS = [ ]
+
 Run the Django server using the following command after you must have activated the virtual environment where the africastalking_demo project is located.
 
 python manage.py runserver
