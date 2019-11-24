@@ -20,7 +20,6 @@ Download ngrok zip file, unzip the file and move it to /usr/local/bin PATH.
 
 Run ngrok in the terminal using the following command.
 
-
 ngrok http 8000
 
 The default port for Django is 8000, which is what we have used.
@@ -30,6 +29,7 @@ Running ngrok takes you to a page where you can copy the generated public url. T
 Starting and Setting up the USSD App
 
 Go to our Django project and locate the settings.py file. Paste the url inside the square brackets
+
 
 ALLOWED_HOSTS = [ ]
 
