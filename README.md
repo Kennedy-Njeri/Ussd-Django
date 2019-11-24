@@ -36,6 +36,7 @@ ALLOWED_HOSTS = [ ]
 Run the Django server using the following command after you must have activated the virtual environment where the africastalking_demo project is located.
 
 python manage.py runserver
+
 Also Go ahead to Africastalking, the Create a channel page and fill in your ngrok public url.
 
 Click on Launch simulator to test your new USSD app.
