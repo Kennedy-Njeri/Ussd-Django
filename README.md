@@ -6,8 +6,6 @@ Navigate to Africastalking site and create an account. Login to your newly creat
 
 Create an app and you should see something like the image below.
 
-
-
 Click on Go to Sandbox app. The next page is similar to the image below.
 
 
