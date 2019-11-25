@@ -11,7 +11,6 @@ Click on Go to Sandbox app. The next page is similar to the image below.
 
 Click on Create channel This will take you to a page where you will create your own USSD service code. You will also be required to provide a callback url, but for the sake of this tutorial, we will make use of Ngrok. Ngrok is basically a software that provides a public url for accessing our local host. It listens from the same port that your local server is running on.
 
-
 Install and Use Ngrok
 
 Download ngrok zip file, unzip the file and move it to /usr/local/bin PATH.
